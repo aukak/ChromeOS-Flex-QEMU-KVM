@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <BaseOutputPath>$(TEMP)\ChromeOSEmu\bin\</BaseOutputPath>
+    <BaseIntermediateOutputPath>$(TEMP)\ChromeOSEmu\obj\</BaseIntermediateOutputPath>
+    <MSBuildProjectExtensionsPath>$(TEMP)\ChromeOSEmu\obj\</MSBuildProjectExtensionsPath>
+  </PropertyGroup>
+</Project>

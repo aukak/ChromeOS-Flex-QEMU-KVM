@@ -1,0 +1,18 @@
+# Build output
+bin/
+obj/
+publish/
+**/bin/
+**/obj/
+
+# Local binaries and captures
+*.exe
+*.pdb
+*.png
+*.log
+nul
+
+# Editor files
+.vs/
+.vscode/
+*.user
