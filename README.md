@@ -8,12 +8,12 @@
 
 ## Downloads
 
-[Windows 11](https://www.microsoft.com/software-download/windows11)  
+Windows 11 
 [WSL2 and Ubuntu](https://learn.microsoft.com/en-us/windows/wsl/install)  
 [Hardware virtualization setup](https://support.microsoft.com/en-US/Windows/Experience/enable-virtualization-on-windows)  
 [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  
 [TigerVNC](https://github.com/TigerVNC/tigervnc/releases)  
-[ChromeOS Flex image](https://support.google.com/chromeosflex/answer/11541904?hl=en)
+[ChromeOS Flex image](https://dl.google.com/chromeos-flex/images/latest.bin.zip)
 
 ## Files
 
