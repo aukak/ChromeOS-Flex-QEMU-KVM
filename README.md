@@ -4,7 +4,7 @@
 
 <h1 align="center">ChromeOS Flex Emulator</h1>
 
-<p align="center">Run ChromeOS Flex on Windows through WSL2 and QEMU.</p>
+<p align="center">ChromeOS running in QEMU/KVM through wsl2</p>
 
 ## Downloads
 
