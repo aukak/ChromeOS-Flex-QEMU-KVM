@@ -8,7 +8,7 @@
 
 ## Downloads
 
-Windows 11 
+[Windows 11](https://www.microsoft.com/software-download/windows11)  
 [WSL2 and Ubuntu](https://learn.microsoft.com/en-us/windows/wsl/install)  
 [Hardware virtualization setup](https://support.microsoft.com/en-US/Windows/Experience/enable-virtualization-on-windows)  
 [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)  
